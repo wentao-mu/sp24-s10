@@ -59,5 +59,4 @@ public class MapExercisesTest {
             "cs61b", 1
         );
     }
-
 }
